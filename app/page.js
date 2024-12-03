@@ -1,10 +1,15 @@
 
 
-export default function PageMain(){
+// Imports
+import Home from "./home/page";
+
+export default function Page(){
 
 
   return (
-    <h1>Hello, World!</h1>
+    <main>
+      <Home/>
+    </main>
   );
 }
 

@@ -5,6 +5,7 @@
 
 - **Language:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **Frame Work:** [Next.JS](https://nextjs.org/docs)
+- **Styling:** [TailwindCSS](https://tailwindcss.com)
 - **Deployment:** [Vercel](https://vercel.com/docs)
 - **Other Tech Used:** [Contentful Headless CMS](https://www.contentful.com/developers/docs/)
 ### Click here to view [Website](https://calgary-ethiopian-orthodox-gabriel.vercel.app)
@@ -17,13 +18,13 @@ Certain elements on the websites home page are easily modified with contentful. 
 
 ## Low-Fidelity-Drawings
 ### Home
-![Home.jpg](./Low-Fi-Sketch/Home.jpg)
+<img src="./Low-Fi-Sketch/Home.jpg" width="350">
 
 ### About
-![About.jpg](./Low-Fi-Sketch/About.jpg)
+<img src="./Low-Fi-Sketch/About.jpg" width="350">
 
 ### Contact
-![Contact.jpg](./Low-Fi-Sketch/Contact.jpg)
+<img src="./Low-Fi-Sketch/Contact.jpg" width="350">
 
 ### Join Us
-![Join-us.jpg](./Low-Fi-Sketch/Join-Us.jpg)
+<img src="./Low-Fi-Sketch/Join-Us.jpg" width="350">
