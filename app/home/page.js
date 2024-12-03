@@ -1,7 +1,7 @@
 
 
-import Header from "../menu/Header";
-import Footer from "../menu/Footer";
+import Header from "../menu/header";            // Error on deployment(Module not found)
+import Footer from "../menu/footer";
 
 export default function HomePage() {
 

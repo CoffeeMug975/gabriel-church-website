@@ -1,7 +1,7 @@
 // This is the about us page
 
-import Header from "../menu/Header";
-import Footer from "../menu/Footer";
+import Header from "../menu/header";
+import Footer from "../menu/footer";
 
 export default function JoinUsPage() {
 

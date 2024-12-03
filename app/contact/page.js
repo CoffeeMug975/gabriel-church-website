@@ -1,7 +1,7 @@
 //This is the contact Page
 
-import Header from "../menu/Header";
-import Footer from "../menu/Footer";
+import Header from "../menu/header";        // Error on deployment(Module not found)
+import Footer from "../menu/footer";        // Error on deployment(Module not found)
 
 export default function ContactPage(){
 
